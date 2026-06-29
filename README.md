@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Veritaaa
 - 👀 I’m interested in recruiting great talent!
-- 🌱 I’m currently learning Swedish 
 - 📫 How to reach me mvera@kubikware.com
 
 <!---
